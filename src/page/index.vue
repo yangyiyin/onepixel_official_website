@@ -186,7 +186,7 @@
                 <img width="30%" style="float:right;" src="http://paz3jxo1v.bkt.clouddn.com/one-pixel-web---cut_101.png"/>
             </div>
 
-            <!--<p class="bottom">浙ICP备14040875号</p>-->
+            <p class="bottom">浙ICP备18030959号-1</p>
 
         </div>
     </div>
