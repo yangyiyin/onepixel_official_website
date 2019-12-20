@@ -186,7 +186,7 @@
                 <img width="30%" style="float:right;" src="http://qiniu-pub.yixsu.com/one-pixel-web---cut_101.png"/>
             </div>
 
-            <p class="bottom">浙ICP备18030959号-1</p>
+            <p class="bottom"><a href="http://www.beian.miit.gov.cn">浙ICP备18030959号-1</a></p>
 
         </div>
     </div>
